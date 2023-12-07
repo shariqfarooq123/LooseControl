@@ -8,7 +8,7 @@ This is the official repository for our paper:
 > ##### [Shariq Farooq Bhat](https://shariqfarooq123.github.io), [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Peter Wonka](http://peterwonka.net/) 
 
 
-[[Project Page]](https://shariqfarooq123.github.io/loose-control/) [[Paper]](#) [[Demo 🤗]](#) [[Weights (3D Box Control)]](https://huggingface.co/shariqfarooq/loose-control-3dbox)
+[[Project Page]](https://shariqfarooq123.github.io/loose-control/) [[Paper]](https://arxiv.org/abs/2312.03079) [[Demo 🤗]](https://huggingface.co/spaces/shariqfarooq/LooseControl) [[Weights (3D Box Control)]](https://huggingface.co/shariqfarooq/loose-control-3dbox)
 
 ![teaser](assets/looseControl_teaser.png)
 
