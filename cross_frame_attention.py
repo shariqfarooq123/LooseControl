@@ -1,3 +1,4 @@
+# Adapted from https://github.com/Picsart-AI-Research/Text2Video-Zero
 import torch
 from einops import rearrange
 
