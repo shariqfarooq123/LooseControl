@@ -46,5 +46,20 @@ Style preserving edits:
 lcn.set_cf_attention()
 
 gen_image_edited = lcn.edit(boxy_depth, boxy_depth_edited, prompt, negative_prompt=negative_prompt)
+```
 
+# Credits
+The Cross Frame attention is adapted from [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+
+# Citation
+
+```bibtex
+@misc{bhat2023loosecontrol,
+      title={LooseControl: Lifting ControlNet for Generalized Depth Conditioning}, 
+      author={Shariq Farooq Bhat and Niloy J. Mitra and Peter Wonka},
+      year={2023},
+      eprint={2312.03079},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
